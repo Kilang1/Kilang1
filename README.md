@@ -8,3 +8,5 @@
 Kilang1/Kilang1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+THU 6792541044กรุงไทยจ้ะ
+นาย.ศุภชัย ยิ้วแตร้น
